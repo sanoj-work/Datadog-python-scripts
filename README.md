@@ -1,0 +1,2 @@
+# Datadog-python-scripts
+This is created to configure the basic KPI/Metric monitors using Datadog for an AWS based projects.There is a wrapper script as well which will do all at a time.If for exapmple some are alraedy existing in Datadog console, it will skip.You can just just input main key word like "cpu" that is enough. It will search if it is there it will skip else it will create the monitor
